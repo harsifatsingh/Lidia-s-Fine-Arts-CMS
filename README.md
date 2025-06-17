@@ -27,7 +27,6 @@
 - [Database Schema](#-database-schema)
 - [Security Features](#-security-features)
 - [Performance Optimizations](#-performance-optimizations)
-- [Team](#-team)
 - [Contributing](#-contributing)
 - [License](#-license)
 
