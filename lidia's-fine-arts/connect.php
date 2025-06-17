@@ -8,7 +8,7 @@ try {
     $dbh = new PDO(
         "mysql:host=localhost;dbname=singh84_db",
         "singh84_local",
-        "wbAN43+M"
+        "xxxxx" //use your server password here
     );
 } catch (Exception $e) {
     die("ERROR: Couldn't connect. {$e->getMessage()}");
