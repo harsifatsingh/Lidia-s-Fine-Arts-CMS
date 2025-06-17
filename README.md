@@ -28,7 +28,6 @@
 - [Security Features](#-security-features)
 - [Performance Optimizations](#-performance-optimizations)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -369,12 +368,6 @@ We welcome contributions to improve this project! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🎉 Acknowledgments
 
 - **Google Fonts**: Poppins and Playfair Display typography
@@ -386,10 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by the development team**
-
-[![GitHub stars](https://img.shields.io/github/stars/username/lidia-codreanu-portfolio?style=social)](https://github.com/username/lidia-codreanu-portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/username/lidia-codreanu-portfolio?style=social)](https://github.com/username/lidia-codreanu-portfolio/network/members)
+**Built with ❤️ by Harsifat Singh**
 
 [⬆ Back to Top](#-lidia-codreanu---artist-portfolio--booking-platform)
 
