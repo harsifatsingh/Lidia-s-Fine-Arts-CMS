@@ -336,18 +336,7 @@ CREATE INDEX idx_bookings_status ON bookings(status);
 
 ---
 
-## 👥 Team
-
-This project was collaboratively developed by a talented team of developers:
-
-| Developer | Role | Contributions |
-|-----------|------|---------------|
-| **Anthony Codreanu** | Full-Stack Developer | Authentication system, admin dashboard, security implementation |
-| **Harsifat Singh** | Backend Developer | Database architecture, art management system, file upload handling |
-| **Richard Owino** | Frontend Developer | Homepage design, responsive layout, theme system |
-| **Abheyjeet Gill** | Full-Stack Developer | Booking system, client interface, form validation |
-
-### 🏆 Development Approach
+## 🏆 Development Approach
 - **Collaborative Coding**: Shared responsibility across all components
 - **Code Review**: Peer review process for quality assurance  
 - **Modern Practices**: Following PHP and web development best practices
